@@ -30,7 +30,7 @@
 
 <div align="center">
 
-> *"I build solutions that work."*
+*"I build solutions that work."*
 
 </div>
 

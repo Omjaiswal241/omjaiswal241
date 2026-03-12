@@ -1,3 +1,5 @@
+# Hi, I'm Om Jaiswal 👋
+
 # 💫 About Me:
 🎓 B.Tech CSE student at G L Bajaj Institute of Technology & Management  <br>💻 Full-Stack Developer building scalable web applications   <br>⚙️ Experienced with React, Next.js, Node.js, Express, WebSockets, PostgreSQL & MongoDB  <br>☁️ Interested in Cloud infrastructure, Docker, CI/CD and system deployment  <br>🧠 Strong problem-solving skills with a focus on Data Structures & Algorithms  <br>🚀 Building real-world applications and solving practical problems through software
 
@@ -11,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=omjaiswal241&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=omjaiswal241&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omjaiswal241&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 
 ---

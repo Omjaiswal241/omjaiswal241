@@ -22,6 +22,18 @@
 
 
 ---
+
+## 🤝 Let's Connect
+
+💼 Open to **Software Development**, **Backend Engineering** & **Cloud/DevOps** Opportunities  
+📬 Feel free to reach out on [LinkedIn](https://linkedin.com/in/omjaiswal241) or [Email](mailto:jaiswalom221@gmail.com)
+
+<div align="center">
+
+> *"I build solutions that work."*
+
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=omjaiswal241&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

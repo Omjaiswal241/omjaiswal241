@@ -1,4 +1,4 @@
-# Hi, I'm Om Jaiswal 👋
+<center># Hi, I'm Om Jaiswal 👋</center>
 
 # 💫 About Me:
 🎓 B.Tech CSE student at G L Bajaj Institute of Technology & Management  <br>💻 Full-Stack Developer building scalable web applications   <br>⚙️ Experienced with React, Next.js, Node.js, Express, WebSockets, PostgreSQL & MongoDB  <br>☁️ Interested in Cloud infrastructure, Docker, CI/CD and system deployment  <br>🧠 Strong problem-solving skills with a focus on Data Structures & Algorithms  <br>🚀 Building real-world applications and solving practical problems through software
